@@ -4,6 +4,12 @@ FitPulse AI is a conversational agent built with the **Google Agent Development 
 
 ---
 
+## 🎬 Generated Exercise Video Demo
+
+![FitPulse Exercise Demonstration Video](demo_video.webp)
+
+---
+
 ## Architecture & Features
 
 ### Core Agent Architecture
